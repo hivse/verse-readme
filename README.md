@@ -1,3 +1,7 @@
+<p align="center">
+ <img width=200px height=200px src="https://www.verse.co.uk/apple-touch-icon.png" alt="Verse">
+</p>
+
 <h2 align="center">Project Title</h2>
 
 <div align="center">
